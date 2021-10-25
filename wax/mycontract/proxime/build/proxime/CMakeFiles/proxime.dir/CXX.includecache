@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/wax/mycontract/proxime/src/../include/proxime.hpp
+eosio/eosio.hpp
+-
+
+/wax/wax/mycontract/proxime/src/proxime.cpp
+proxime.hpp
+-
+

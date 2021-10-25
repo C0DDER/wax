@@ -1,0 +1,14 @@
+# Target labels
+ proxime_project
+# Source files and their labels
+/wax/wax/mycontract/proxime/build/CMakeFiles/proxime_project
+/wax/wax/mycontract/proxime/build/CMakeFiles/proxime_project.rule
+/wax/wax/mycontract/proxime/build/CMakeFiles/proxime_project-complete.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-install.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-mkdir.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-download.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-update.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-patch.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-configure.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-build.rule
+/wax/wax/mycontract/proxime/build/proxime_project-prefix/src/proxime_project-stamp/proxime_project-test.rule

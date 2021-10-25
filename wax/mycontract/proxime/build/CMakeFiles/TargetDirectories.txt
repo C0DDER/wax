@@ -1,0 +1,3 @@
+/wax/wax/mycontract/proxime/build/CMakeFiles/rebuild_cache.dir
+/wax/wax/mycontract/proxime/build/CMakeFiles/proxime_project.dir
+/wax/wax/mycontract/proxime/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,14 @@
+# Target labels
+ waxrng_project
+# Source files and their labels
+/wax/wax/mycontract/waxrng/build/CMakeFiles/waxrng_project
+/wax/wax/mycontract/waxrng/build/CMakeFiles/waxrng_project.rule
+/wax/wax/mycontract/waxrng/build/CMakeFiles/waxrng_project-complete.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-install.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-mkdir.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-download.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-update.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-patch.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-configure.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-build.rule
+/wax/wax/mycontract/waxrng/build/waxrng_project-prefix/src/waxrng_project-stamp/waxrng_project-test.rule

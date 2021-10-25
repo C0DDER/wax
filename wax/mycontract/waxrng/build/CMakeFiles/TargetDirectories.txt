@@ -1,0 +1,3 @@
+/wax/wax/mycontract/waxrng/build/CMakeFiles/rebuild_cache.dir
+/wax/wax/mycontract/waxrng/build/CMakeFiles/waxrng_project.dir
+/wax/wax/mycontract/waxrng/build/CMakeFiles/edit_cache.dir
